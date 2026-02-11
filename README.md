@@ -27,4 +27,4 @@
 <a href="https://github.com/DiogoPires07">
 
 
-![Snake animation](https://github.com/DiogoPires07/DiogoPires07/blob/output/github-contribution-grid-snake.svg)
+
